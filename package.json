@@ -1,0 +1,13 @@
+{
+  "name": "programmers-2021-first-half-frontend-devmatching",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yhan.bae",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve -s "
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
